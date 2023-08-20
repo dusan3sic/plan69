@@ -1,0 +1,10 @@
+http://doc.cat-v.org/plan_9/real_time/real_time_overview/real_time_overview.pdf
+http://doc.cat-v.org/plan_9/real_time/real_time_in_a_real_operating_system/real_time_in_a_real_operating_system.pdf
+http://doc.cat-v.org/plan_9/real_time/edfi/edfi.pdf
+https://books.google.rs/books?hl=sr&lr=&id=DiqSAgAAQBAJ&oi=fnd&pg=PP1&dq=marilyn+wolf+high+performance+embedded+computing&ots=fgP4j0q0_s&sig=899L8IdzY2nuGivrST5zVHZdT5I&redir_esc=y#v=onepage&q=marilyn%20wolf%20high%20performance%20embedded%20computing&f=true
+https://9p.io/sys/doc/9.pdf
+http://retis.sssup.it/~giorgio/paps/2005/rtsj05-rmedf.pdf
+https://www.researchgate.net/publication/289220320_Performance_Evaluation_of_New_Joint_EDF-RM_Scheduling_Algorithm_for_Real_Time_Distributed_System
+http://9p.io/iwp9/Real-time.pdf
+
+
