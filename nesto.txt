@@ -1,1 +1,0 @@
-qemu-system-x86_64: CPU model 'host' requires KVM or HVF
