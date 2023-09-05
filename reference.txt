@@ -6,5 +6,6 @@ https://9p.io/sys/doc/9.pdf
 http://retis.sssup.it/~giorgio/paps/2005/rtsj05-rmedf.pdf
 https://www.researchgate.net/publication/289220320_Performance_Evaluation_of_New_Joint_EDF-RM_Scheduling_Algorithm_for_Real_Time_Distributed_System
 http://9p.io/iwp9/Real-time.pdf
+http://doc.cat-v.org/plan_9/1st_edition/multiprocessor-streams
 
 
